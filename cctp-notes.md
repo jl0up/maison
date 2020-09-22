@@ -16,8 +16,9 @@
 	- feuille d'aluminium ? (risque de se déchirer)
 	- plaques métalliques conçues pour plancher chauffant ? (i.e. Caleosol)
 - pose des tuyaux de chauffage au sol
-	- PER - Polyéthylène réticu
-	- passage à travers sol pour connexion au sous-sol
+	- PER - Polyéthylène réticulé HD = PE-X
+	- barrière anti-oxygène ?
+	- passage à travers sol pour connexion au sous-sol ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODk0MjI4MiwtOTM3NjYxNDY1XX0=
+eyJoaXN0b3J5IjpbLTE4Njc5NDY1NSwtOTM3NjYxNDY1XX0=
 -->
