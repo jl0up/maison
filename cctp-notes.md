@@ -22,8 +22,14 @@
 
 ## Murs
 ### Salon
+- casser cloisons inutiles
+- démonter portes inutiles
 - retirer papier peint
-- dé
+- décaper peinture
+- poncer grossier (planéité)
+- faire saignées pour électricité
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODM1NDE2MSwtOTM3NjYxNDY1XX0=
+eyJoaXN0b3J5IjpbLTE2OTQxNzYzMzQsLTkzNzY2MTQ2NV19
 -->
