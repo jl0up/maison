@@ -32,9 +32,13 @@
 
 ## Murs salon : finition
 ### Plusieurs possibilités
-1. Enduit
-	- 
+1. Enduit plâtre-chaux
+	- dépoussiérer
+	- humidifier
+	- gobetis ?
+		- préparer le support pour le rendre rugueux ?
+		- quel matériau rugeux ?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY3Nzg5MDgsLTkzNzY2MTQ2NV19
+eyJoaXN0b3J5IjpbLTE0NTU0NzM5MzksLTkzNzY2MTQ2NV19
 -->
