@@ -30,7 +30,7 @@
 - installer gaines électriques
 - reboucher saignées
 
-## Murs salon : finition
+## Murs salon : finition : plusieurs possibilités
 ### Enduit plâtre-chaux
 - dépoussiérer
 - humidifier
@@ -68,11 +68,15 @@
 	- mate ? velours ? satinée ?
 - ponçage très fin ?
 - peinture acrylique 2ème couche ?
-4. BA13
-	- structure
-		- liteaux bois ?
-		- métal ?
+### BA13
+- nettoyage des murs
+- structure
+	- liteaux bois ?
+	- métal ?
+- pose plaques
+- découpage électricité
+- pose gaines
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzM5NjgxNSw2ODU0NTY3NDEsLTkzNz
+eyJoaXN0b3J5IjpbLTcyOTM0MzQ4Nyw2ODU0NTY3NDEsLTkzNz
 Y2MTQ2NV19
 -->
