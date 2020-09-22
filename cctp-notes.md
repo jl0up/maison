@@ -173,7 +173,36 @@ PER ?
 - sol
 	- rien ?
 	- chape liquide ?
+
+## Toiture
+
+### Charpente
+- changer pannes ?
+	- si pannes métalliques en mauvais état (peu probable)
+	- si couverture nécessite pannes en bois
+- faire maçonnerie pour extension de la couverture sur terrasse ?
+
+### Isolation
+- préférablement par l'extérieur
+	- sarking
+	- caissons chevronnés
+	- panneaux sandwichs
+- laine de roche / laine de verre / fibre de bois plutôt que pétrochimique (bruit)
+- attention hauteur PLU
+
+### Parement
+- si sarking ou caissons chevronnés : intégré
+	- pare-vapeur intégré ?
+- sinon par l'intérieur
+	- penser au pare-vapeur ?
+
+### Couverture
+- bac acier (moins cher)
+	- isolation intégrée (panneaux sandwichs) ?
+		- plutôt laine de roche (isolation phonique)
+- tuiles
+	- épaisseur totale ? Attention hauteur PLU !
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyNzMyMjg0LC03MjU3MDc5NzMsNjg1ND
+eyJoaXN0b3J5IjpbODEzOTM1OTQ5LC03MjU3MDc5NzMsNjg1ND
 U2NzQxLC05Mzc2NjE0NjVdfQ==
 -->
