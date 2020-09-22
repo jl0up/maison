@@ -19,7 +19,7 @@
 - pose des tuyaux de chauffage au sol dans rainure ?
 	- PER - Polyéthylène réticulé HD = PE-X
 	- barrière anti-oxygène ?
-	- passage à travers sol pour connexion au sous-sol ?
+	- passage à travers sol pour nourrice au sous-sol ?
 
 ### Finition salon
 - parquet
@@ -146,8 +146,31 @@ Les murs sont en béton coulé avec pierres meulières, recouverts à l'intérie
 - peinture
 
 ## Plomberie
-- PER 
+
+### traversée sous-sol / étage
+PER ?
+
+### apparent
+- cuivre ?
+- multicouche ?
+
+## Electricité (notes)
+- réutiliser fils existants ?
+	- norme ? (multibrins !)
+- tableau secondaire à l'étage ?
+- tableau secondaire au sous-sol ?
+- prises RJ45 ?
+- fibre optique ?
+
+## Sous-sol
+
+### Isolation
+- plafond laine de verre/roche
+- murs
+	- enduit chaux-chanvre ?
+	- laine de verre + tasseaux + OSB ?
+	- OSB + isolant vrac ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk3OTg5NzIsLTcyNTcwNzk3Myw2OD
-U0NTY3NDEsLTkzNzY2MTQ2NV19
+eyJoaXN0b3J5IjpbNjkxMzA3OTg2LC03MjU3MDc5NzMsNjg1ND
+U2NzQxLC05Mzc2NjE0NjVdfQ==
 -->
