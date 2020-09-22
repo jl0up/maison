@@ -1,6 +1,7 @@
 # Travaux maison : cahier des charges 
 
 ## Plancher RDC
+
 - pose des gaines électriques
 	- dans la zone la plus basse du sol (vers entrée)
 - nivellement avec granules
@@ -20,7 +21,33 @@
 	- barrière anti-oxygène ?
 	- passage à travers sol pour connexion au sous-sol ?
 
+## Plafonds
+
+### Alternative 1 : peinture
+- décapage ?
+	- chaleur ?
+	- chimique ?
+	- mécanique ?
+- ponçage grossier
+- enduit ?
+- ponçage fin
+- dépoussiérage
+- primaire
+- peinture couche 1
+	- acrylique
+	- glycéro si nécessaire pour adhérence sur peinture glycéro existante
+- peinture couche 2 ?
+
+### Alternative 2 : nettoyage + faux-plafond
+- nettoyage (St Marc)
+- supports pour faux-plafond
+	- goujons ?
+	- cales ou liteaux pour y visser le faux-plafond ?
+		- chevillées sur brique ?
+		- vissées dans poutre métallique ?
+
 ## Murs : préparation (général sauf BA13)
+
 - casser cloisons inutiles
 - démonter portes inutiles
 - retirer papier peint
@@ -31,6 +58,7 @@
 - reboucher saignées
 
 ## Murs salon : finition : plusieurs possibilités
+
 ### Enduit plâtre-chaux
 - dépoussiérer
 - humidifier
@@ -39,6 +67,12 @@
 - 2ème couche
 	- 3 vol plâtre **gros**, 2 vol sable blanc fin sec, 1 vol chaux **aérienne**
 	- 1.5 vol eau ? (à confirmer)
+	- pigments ?
+	- charges ?
+- protection ?
+	- huile de lin ?
+	- cire ?
+
 ### Enduit chaux fin
 - dépoussiérer
 - humidifier
@@ -57,17 +91,20 @@
 - protection après séchage ?
 	- huile de lin ?
 	- cire ?
+
 ### Peinture
 - enduit de garnissage ? (selon état)
 - vérifier planéité
 - ponçage fin
 - enduit de lissage
 - ponçage très fin
+- dépoussiérage
 - primaire
 - peinture acrylique 1ère couche
 	- mate ? velours ? satinée ?
 - ponçage très fin ?
 - peinture acrylique 2ème couche ?
+
 ### BA13
 - casser cloisons inutiles
 - démonter portes inutiles
@@ -85,6 +122,6 @@
 - ponçage
 - peinture
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTcwNzk3Myw2ODU0NTY3NDEsLTkzNz
-Y2MTQ2NV19
+eyJoaXN0b3J5IjpbMTEyNjU0Njk2LC03MjU3MDc5NzMsNjg1ND
+U2NzQxLC05Mzc2NjE0NjVdfQ==
 -->
