@@ -47,9 +47,18 @@
 		- chaux aérienne ?
 	- finition
 		- chaux aérienne
-		- charge = sable blanc fin
-		- charge = poudre de marbre
+		- charge = sable blanc fin ?
+		- charge = poudre de marbre ?
+		- pigments ?
+			- dioxyde de titane ?
+			- blanc de Meudon ?
+		- adjuvants ?
+			- caséine ?
+			- huile de lin ?
+		- protection après séchage ?
+			- huile de lin ?
+			- cire ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTQyNDc4NCw2ODU0NTY3NDEsLTkzNz
+eyJoaXN0b3J5IjpbLTQ3ODU2ODMzNCw2ODU0NTY3NDEsLTkzNz
 Y2MTQ2NV19
 -->
