@@ -80,8 +80,11 @@
 - pose plaques
 - découpage électricité
 - pose gaines
-- 
+- bande à joints
+- enduit sur joints
+- ponçage
+- peinture
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTIxMjU2NzAsNjg1NDU2NzQxLC05Mz
-c2NjE0NjVdfQ==
+eyJoaXN0b3J5IjpbLTcyNTcwNzk3Myw2ODU0NTY3NDEsLTkzNz
+Y2MTQ2NV19
 -->
