@@ -59,9 +59,15 @@
 		- huile de lin ?
 		- cire ?
 3. Peinture
-	- Enduit de garnis
+	- Enduit de garnissage ? (selon état)
+	- Vérifier planéité
 	- Poncer fin
+	- Enduit de lissage
+	- Poncer très fin
+	- Primaire
+	- Peinture acrylique
+		- mate ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDI3OTI0OSw2ODU0NTY3NDEsLTkzNz
-Y2MTQ2NV19
+eyJoaXN0b3J5IjpbLTEyODE5MDI4NDEsNjg1NDU2NzQxLC05Mz
+c2NjE0NjVdfQ==
 -->
