@@ -69,14 +69,19 @@
 - ponçage très fin ?
 - peinture acrylique 2ème couche ?
 ### BA13
+- casser cloisons inutiles
+- démonter portes inutiles
+- retirer papier peint si facile
 - nettoyage des murs
+	- St Marc
 - structure
 	- liteaux bois ?
 	- métal ?
 - pose plaques
 - découpage électricité
 - pose gaines
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTM0MzQ4Nyw2ODU0NTY3NDEsLTkzNz
-Y2MTQ2NV19
+eyJoaXN0b3J5IjpbLTIwNTIxMjU2NzAsNjg1NDU2NzQxLC05Mz
+c2NjE0NjVdfQ==
 -->
