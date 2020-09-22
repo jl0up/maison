@@ -169,8 +169,11 @@ PER ?
 - murs
 	- enduit chaux-chanvre ?
 	- laine de verre + tasseaux + OSB ?
-	- OSB + isolant vrac ?
+	- OSB + isolant vrac derrière ?
+- sol
+	- rien ?
+	- chape liquide ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMzA3OTg2LC03MjU3MDc5NzMsNjg1ND
+eyJoaXN0b3J5IjpbMjMyNzMyMjg0LC03MjU3MDc5NzMsNjg1ND
 U2NzQxLC05Mzc2NjE0NjVdfQ==
 -->
