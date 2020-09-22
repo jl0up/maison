@@ -55,10 +55,13 @@
 		- adjuvants ?
 			- caséine ?
 			- huile de lin ?
-		- protection après séchage ?
-			- huile de lin ?
-			- cire ?
+	- protection après séchage ?
+		- huile de lin ?
+		- cire ?
+3. Peinture
+	- Enduit de garnis
+	- Poncer fin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODU2ODMzNCw2ODU0NTY3NDEsLTkzNz
+eyJoaXN0b3J5IjpbLTU4NDI3OTI0OSw2ODU0NTY3NDEsLTkzNz
 Y2MTQ2NV19
 -->
