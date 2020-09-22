@@ -20,16 +20,19 @@
 	- barrière anti-oxygène ?
 	- passage à travers sol pour connexion au sous-sol ?
 
-## Murs
-### Salon
+## Murs : préparation (général)
+## Murs salon
+### Préparation
 - casser cloisons inutiles
 - démonter portes inutiles
 - retirer papier peint
 - décaper peinture
 - poncer grossier (planéité)
 - faire saignées pour électricité
-- 
+- installer gaines électriques
+- reboucher saignées
+- finition
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQxNzYzMzQsLTkzNzY2MTQ2NV19
+eyJoaXN0b3J5IjpbLTM0NTM4MzM0NSwtOTM3NjYxNDY1XX0=
 -->
