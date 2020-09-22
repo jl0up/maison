@@ -21,8 +21,6 @@
 	- passage à travers sol pour connexion au sous-sol ?
 
 ## Murs : préparation (général)
-## Murs salon
-### Préparation
 - casser cloisons inutiles
 - démonter portes inutiles
 - retirer papier peint
@@ -31,8 +29,12 @@
 - faire saignées pour électricité
 - installer gaines électriques
 - reboucher saignées
-- finition
+
+## Murs salon : finition
+### Plusieurs possibilités
+1. Enduit
+	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTM4MzM0NSwtOTM3NjYxNDY1XX0=
+eyJoaXN0b3J5IjpbLTIwNjY3Nzg5MDgsLTkzNzY2MTQ2NV19
 -->
