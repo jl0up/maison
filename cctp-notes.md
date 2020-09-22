@@ -38,10 +38,14 @@
 	- gobetis ?
 		- plâtre-chaux-sable ? chaux-sable ?
 	- 2ème couche
-		- 3 vol plâtre, 2 vol sable blanc fin sec, 1 vol chaux
+		- 3 vol plâtre **gros**, 2 vol sable blanc fin sec, 1 vol chaux **aérienne**
 		- 1.5 vol eau ? (à confirmer)
-
+2. Enduit chaux fin
+	- dépoussiérer
+	- humidifier
+	- gobetis chaux-sable
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzIyNDkwOSw2ODU0NTY3NDEsLTkzNz
-Y2MTQ2NV19
+eyJoaXN0b3J5IjpbOTkzMDU0MTY4LDY4NTQ1Njc0MSwtOTM3Nj
+YxNDY1XX0=
 -->
