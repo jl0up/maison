@@ -19,6 +19,11 @@
 	- PER - Polyéthylène réticulé HD = PE-X
 	- barrière anti-oxygène ?
 	- passage à travers sol pour connexion au sous-sol ?
+
+## Murs
+### Salon
+- retirer papier peint
+- dé
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc5NDY1NSwtOTM3NjYxNDY1XX0=
+eyJoaXN0b3J5IjpbLTgzODM1NDE2MSwtOTM3NjYxNDY1XX0=
 -->
