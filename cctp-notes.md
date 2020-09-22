@@ -44,8 +44,12 @@
 	- dépoussiérer
 	- humidifier
 	- gobetis chaux-sable
-	- 
+		- chaux aérienne ?
+	- finition
+		- chaux aérienne
+		- charge = sable blanc fin
+		- charge = poudre de marbre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzMDU0MTY4LDY4NTQ1Njc0MSwtOTM3Nj
-YxNDY1XX0=
+eyJoaXN0b3J5IjpbMTU0OTQyNDc4NCw2ODU0NTY3NDEsLTkzNz
+Y2MTQ2NV19
 -->
