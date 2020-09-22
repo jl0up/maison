@@ -36,9 +36,9 @@
 	- dépoussiérer
 	- humidifier
 	- gobetis ?
-		- préparer le support pour le rendre rugueux ?
-		- quel matériau rugeux ?
+		- plâtre-chaux-sable ? chaux-sable ?
+	- 2ème couche
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU0NzM5MzksLTkzNzY2MTQ2NV19
+eyJoaXN0b3J5IjpbLTIzMzUyOTcyNCwtOTM3NjYxNDY1XX0=
 -->
