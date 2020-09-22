@@ -38,7 +38,8 @@
 	- gobetis ?
 		- plâtre-chaux-sable ? chaux-sable ?
 	- 2ème couche
+		- 3 vol plâtre, 2 vol sable blanc fin, 1 vol chaux, 2.5 vol eau
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMzUyOTcyNCwtOTM3NjYxNDY1XX0=
+eyJoaXN0b3J5IjpbNjg1NDU2NzQxLC05Mzc2NjE0NjVdfQ==
 -->
