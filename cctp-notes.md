@@ -68,8 +68,11 @@
 	- peinture acrylique 1ère couche
 		- mate ? velours ? satinée ?
 	- ponçage très fin ?
-	- peinture acrylique 
+	- peinture acrylique 2ème couche ?
+4. BA13
+	- structure
+		-  bois ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcxOTEzMTgsNjg1NDU2NzQxLC05Mz
-c2NjE0NjVdfQ==
+eyJoaXN0b3J5IjpbMjI2NzM2NzU0LDY4NTQ1Njc0MSwtOTM3Nj
+YxNDY1XX0=
 -->
