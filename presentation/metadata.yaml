@@ -1,0 +1,28 @@
+---
+title:  Maison -- isolation et +
+author:
+  - J.-L. Smirr
+date: 2020-10-29
+
+institute: Smirr Co. Ltd
+
+fontsize: 9pt # min 8, std 11 or 12 ?
+section-titles: false
+
+# fonttheme: cuerna
+innertheme: metropolis
+outertheme: metropolis
+colortheme: metropolis
+# or theme: metropolis if same everywhere
+
+themeoptions: [background=light, numbering=fraction, progressbar=foot, block=fill]
+
+
+# can't get these to work
+aspectratio: 169
+
+graphics: true
+header-includes:
+- \usepackage{siunitx}
+- \graphicspath{{figs/}{figs_old/}}
+...
